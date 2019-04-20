@@ -3,20 +3,16 @@ A list of themes that I've studied in university classes and that I've researche
 
 Coming soon. I'll post and describe these themes in an organized fashion. 
 
-...
-
 Example:
 
 ### Topic/Subject #1
 
-Studied where: -
+Studied where:
 
-How long: -
+How long:
 
-Interested in: -
+Interested in:
 
-Notes and references: -
+Notes and references:
 
-More to come: -
-
-...
+More to come:
