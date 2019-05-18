@@ -3,9 +3,10 @@ A list of **some** *important for me to mention* themes that I've studied in **u
 
 LEGEND:
 
-&#x2717; NOT YET FINISHED
 
-&#x2713; FINISHED
+NOT YET FINISHED | FINISHED |
+--- | --- |
+&#x2717; | &#x2713; |
 
 
 University list:
