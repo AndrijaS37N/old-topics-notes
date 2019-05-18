@@ -6,7 +6,7 @@ LEGEND:
 
 NOT YET FINISHED | FINISHED |
 --- | --- |
-&#x2717; | &#x2713; |
+**&#x2717;** | &#x2713; |
 
 
 University list:
