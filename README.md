@@ -9,7 +9,7 @@ NOT YET FINISHED | FINISHED |
 **&#x2717;** | &#x2713; |
 
 
-### 🍏
+## 🍏
 
 University list:
 1. Maths I &#x2713;
@@ -33,7 +33,7 @@ University list:
 ... These are some that I wanted to mention.
 
 
-### 🏄🏻‍♂️
+## 🏄🏻‍♂️
 
 Personal research list:
 1. AI Software & Research
