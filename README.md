@@ -1,15 +1,13 @@
 # Topics & Subjects List
 A list of **some** *important for me to mention* themes that I've studied in **university classes** and that I've researched and **learned on my own**.
 
-LEGEND:
+## 🍏
 
+LEGEND:
 
 NOT YET FINISHED | FINISHED |
 --- | --- |
 **&#x2717;** | &#x2713; |
-
-
-## 🍏
 
 University list:
 1. Maths I &#x2713;
@@ -30,7 +28,7 @@ University list:
 1. Web Services II &#x2713;
 1. Entrepreneurship **&#x2717;**
 
-... These are some that I wanted to mention.
+... These are some classes and subjects that I wanted to mention at the moment of writing this.
 
 
 ## 🏄🏻‍♂️
@@ -43,5 +41,5 @@ Personal research list:
 1. Blockchain Security, Consensus Mechanisms & Smart Contract Usage
 1. Robotics, Automation Systems & Embedded Systems
 
-... I must be forgetting some, of course.
+... I must be forgetting some at this moment of course.
 
