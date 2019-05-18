@@ -2,13 +2,16 @@
 A list of **some** *important for me to mention* themes that I've studied in **university classes** and that I've researched and **learned on my own**.
 
 LEGEND:
+
 &#x2717; NOT YET FINISHED
+
 &#x2713; FINISHED
 
+
 University list:
-1. Maths I &#x2713; |
-1. Maths II &#x2713; |
-1. Probability & Statistics &#x2713;| 
+1. Maths I &#x2713;
+1. Maths II &#x2713;
+1. Probability & Statistics &#x2713;
 1. Cyber (Information) Security &#x2717;
 1. Data Structures & Algorithms &#x2713;
 1. Operating Systems &#x2713;
