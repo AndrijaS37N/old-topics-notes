@@ -9,7 +9,7 @@ NOT YET FINISHED | FINISHED |
 **&#x2717;** | &#x2713; |
 
 
-University list:
+_University list_:
 1. Maths I &#x2713;
 1. Maths II &#x2713;
 1. Probability & Statistics &#x2713;
@@ -28,9 +28,9 @@ University list:
 1. Web Services II &#x2713;
 1. Entrepreneurship **&#x2717;**
 
-... These are some that I wanted to mention.
+... These are some that I wanted to mention. 🍏
 
-Personal research list:
+_Personal research list_:
 1. AI Software & Research
 1. Alternative Computing & Quantum Computing
 1. iOS & General Mobile Development
@@ -38,4 +38,4 @@ Personal research list:
 1. Blockchain Security, Consensus Mechanisms & Smart Contract Usage
 1. Robotics, Automation Systems & Embedded Systems
 
-... I must be forgetting some, of course. 
+... I must be forgetting some, of course. 🏄🏻‍♂️
