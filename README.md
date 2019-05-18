@@ -13,7 +13,7 @@ University list:
 1. Maths I &#x2713;
 1. Maths II &#x2713;
 1. Probability & Statistics &#x2713;
-1. Cyber (Information) Security &#x2717;
+1. Cyber (Information) Security **&#x2717**;
 1. Data Structures & Algorithms &#x2713;
 1. Operating Systems &#x2713;
 1. Cloud Computing &#x2713;
@@ -26,7 +26,7 @@ University list:
 1. Scripting Languages &#x2713;
 1. Web Services I &#x2713;
 1. Web Services II &#x2713;
-1. Entrepreneurship &#x2717;
+1. Entrepreneurship **&#x2717**;
 
 ... These are some that I wanted to mention.
 
@@ -38,4 +38,4 @@ Personal research list:
 1. Blockchain Security, Consensus Mechanisms & Smart Contract Usage
 1. Robotics, Automation Systems & Embedded Systems
 
-... I must be forgetting some of course. 
+... I must be forgetting some, of course. 
