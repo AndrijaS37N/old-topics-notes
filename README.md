@@ -36,13 +36,13 @@ University list:
 ## 🏄
 
 Personal research list:
-1. Web System Architectures 💻
-1. DAC & MAC Modules/Services/Applications 🐉
-1. AI Software & Research 🧚‍♀️
-1. Alternative Computing & Quantum Computing 🦄🧚‍♀️
-1. Swift Programming Language 🖌👨‍🎨
-1. Blockchain Security, Consensus Mechanisms & Smart Contract Usage 🦄🧚‍♀️
-1. Robotics, Automation Systems & Embedded Systems 🤖🚙🛰
+1. Web System Architectures {💻}
+1. DAC & MAC Modules/Services/Applications {🐉}
+1. AI Software & Research {🧚‍♀️}
+1. Alternative Computing & Quantum Computing {🦄, 🧚‍♀️}
+1. Swift Programming Language {🖌, 👨‍, 🎨}
+1. Blockchain Security, Consensus Mechanisms & Smart Contract Usage {🦄, 🧚‍♀️}
+1. Robotics, Automation Systems & Embedded Systems {🤖, 🚙, 🛰}
 
 ... I must be forgetting some at this moment of course.
 
