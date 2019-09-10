@@ -1,5 +1,5 @@
 # Topics & Subjects List
-A list of **some** *important for me to mention* themes that I've studied in **university classes** and that I've researched and **learned on my own**.
+A list of **some** *important for me to mention* themes/topics/CS or SWE disciplines that I've studied in **university classes** and that I've researched and **learned on my own**.
 
 ## 🍏
 
@@ -26,13 +26,14 @@ University list:
 1. Scripting Languages &#x2713;
 1. Web Services I &#x2713;
 1. Web Services II &#x2713;
-1. Entrepreneurship **&#x2717;**
+1. Entrepreneurship &#x2713;
 1. Distributed Systems &#x2713;
+
+> The Bachelor's Thesis **&#x2717;**
 
 ... These are some classes and subjects that I wanted to mention at the moment of writing this.
 
-
-## 🏄🏻‍♂️
+## 🏄
 
 Personal research list:
 1. Web System Architectures 💻
