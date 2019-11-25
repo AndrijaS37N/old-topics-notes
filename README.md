@@ -1,5 +1,6 @@
 # Topics & Subjects List
-A list of **some** *important for me to mention* themes/topics/CS or SWE disciplines that I've studied in **university classes** and that I've researched and **learned on my own**.
+A list of **some** *important for me to mention* topics and CS or SWE disciplines that I've studied in **university classes** and that I've researched and **learned on my own**.
+I've also mentioned some interests of mine in decentralised, distruibuted networks and the crypto world, AI and machine learning, HPC and automation systems.
 
 ## 🍏
 
@@ -46,3 +47,15 @@ Personal research list:
 
 ... I must be forgetting some at this moment of course.
 
+### Crypto
+In Dec 2018 I've look at some blockchain projects and decided then to wait for this tech to mature more. 
+
+Some of them are: 
+
+1. Bitcoin (Lightning transactions, PoW evolution, 51% attack problems, Dandelion mechanism)
+1. Ethereum (PoS evolution, Vitalik's presentations, online commentaries, Andrew Antonopoulos commentaries, etc.)
+1. Monero (privacy mechanisms, ring confidential transactions, network size problem)
+1. Chainlink (smart contract usage evolution, sybil attacks)
+1. Grim (MimbleWimble protocol)
+1. Other (incentive structure, zero knowledge proofs, various consensus mechanisms, permissioned chains, blockchain dbs)
+1. Relative (IPFS, cryptography evolution, "distributing" philosophy)
