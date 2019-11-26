@@ -46,7 +46,7 @@ Personal research list:
 1. Blockchain Security, Consensus Mechanisms & Smart Contract Usage
 
 ### Algorithms
-Steadly building my own (choosen structures and parts) standard library in C and C++ programming languages with CMake, GCC/G++ and AppleClang. Also implementing various coding tasks, going forward in improving my problem solving skills.
+Steadly building my own (chosen structures and parts) standard library in C and C++ programming languages with CMake, GCC/G++ and AppleClang. Also implementing various coding tasks, going forward in improving my problem solving skills.
 
 ### AppArmor & Linux Hardening
 Did a semester project for a cyber security college course about AppArmor. Will be researching more about ways of hardening Linux for my bachelor's in cyber security. Tinkered with Qubes OS, Kali Linux, Debian, Parrot OS and various Ubuntu flavours.
