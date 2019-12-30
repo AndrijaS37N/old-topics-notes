@@ -11,7 +11,7 @@ NOT YET FINISHED | FINISHED |
 --- | --- |
 **&#x2717;** | &#x2713; |
 
-University list:
+University list :
 1. Maths I &#x2713;
 1. Maths II &#x2713;
 1. Probability & Statistics &#x2713;
@@ -33,11 +33,11 @@ University list:
 
 > The Bachelor's Thesis **&#x2717;**
 
-... These are some classes and subjects that I wanted to mention at the moment of writing this.
+... These are just some classes and subjects that I wanted to mention at the moment of writing this.
 
 ## 🏄
 
-Personal research list:
+Personal research list from 2017-ish to 2019-ish:
 1. Algorithms
 1. Access Control Systems & Linux Hardening
 1. AI Software & Research
@@ -58,7 +58,7 @@ Was interested a lot about this topic but I've also forgotten much of it. Learne
 Implemented the Grover's search algorithm in IBM Q Experience. Read a lot about why quantum computing could be an alternative way of compute in the future. This technology is quite in its infancy I think. It's very difficult to maintain a quantum system do to the laws of quantum mechanics, and it's non deterministic nature.
 
 ### Modern Programming Language Architectures
-Looked into Swift and perticulary in Go lang.
+Looked into Swift and Go.
 
 ### Crypto
 In Dec 2018 I've looked at some blockchain projects and decided to wait for this tech to mature more. 
