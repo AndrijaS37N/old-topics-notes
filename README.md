@@ -1,22 +1,20 @@
-# Old Topics & Subjects Notes
-A list of **some** *important for me to mention* topics and CS or SWE disciplines that I've studied in **university classes** and that I've researched and **learned on my own**.
+~~# Old Topics & Subjects Notes
+A list of **some** topics and CS or SWE disciplines that I've studied in **university classes** and that I've researched and **learned on my own**.
 
-I've also mentioned some interests of mine in decentralised, distruibuted networks and the crypto world, AI and machine learning, HPC and automation systems at the end of this README file.
+~~## 🍏
 
-## 🍏
+~~LEGEND:
 
-LEGEND:
-
-NOT YET FINISHED | FINISHED |
+~~NOT YET FINISHED | FINISHED |
 --- | --- |
 **&#x2717;** | &#x2713; |
 
-University list :
+~~University list :
 1. Maths I &#x2713;
-1. Maths II &#x2713;
-1. Probability & Statistics &#x2713;
-1. Cyber (Information) Security &#x2713;
-1. Data Structures & Algorithms &#x2713;
+~~1. Maths II &#x2713;
+~~1. Probability & Statistics &#x2713;
+~~1. Cyber (Information) Security &#x2713;
+~~1. Data Structures & Algorithms &#x2713;
 1. Operating Systems &#x2713;
 1. Cloud Computing &#x2713;
 1. HCI &#x2713;
@@ -74,3 +72,4 @@ Some of them are:
 1. Relative (IPFS, cryptography evolution, "distributing" philosophy)
 
 ... I'll keep looking into some of these.
+~~
