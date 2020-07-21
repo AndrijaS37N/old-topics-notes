@@ -31,7 +31,7 @@ University list :
 1. Entrepreneurship &#x2713;
 1. Distributed Systems &#x2713;
 
-> The Bachelor's Thesis **&#x2717;**
+> The Bachelor's Thesis **&#x2713;**
 
 ... These are just some classes and subjects that I wanted to mention at the moment of writing this.
 
